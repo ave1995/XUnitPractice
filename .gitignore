@@ -4,6 +4,9 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 
+# Ignore user-specific DotSettings
+*.DotSettings.user
+
 # Ignore all files in the .idea folder
 .idea/
 
